@@ -66,7 +66,3 @@ I lift weights, drink coffee, take photos, and explore the world.
 Feel free to reach out if you want to collaborate or just chat about tech.
 
 </div>
-
-💬 **Let's chat about tech, coffee, or your next big idea!**
-
-</div>
