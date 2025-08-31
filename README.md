@@ -2,7 +2,7 @@
 
 <div align="center">
   
-*Currently building cool stuff from Phnom Penh* 🇰🇭
+*Currently building cool stuff on the internet. Open to collaborating on interesting projects.* 🇰🇭
 
 [![GitHub](https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/pisethx)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pisethx/)
@@ -40,10 +40,6 @@ const piseth = {
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 </p>
 
-
-## Currently
-
-Working on full-stack applications. Open to collaborating on interesting projects.
 
 ## Outside of Code
 
