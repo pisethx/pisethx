@@ -15,7 +15,7 @@
 const piseth = {
     role: "Full Stack Developer",
     location: "Cambodia 🇰🇭",
-    bio: "I turn coffee into code ☕ → 💻"
+    bio: "I drink way too much coffee."
 };
 ```
 
@@ -41,7 +41,7 @@ const piseth = {
 </p>
 
 
-## Outside of Code
+## 🏖️ Outside of Code
 
 I lift weights, drink coffee, take photos, and explore the world.
 
